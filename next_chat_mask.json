@@ -1,8 +1,8 @@
 [
     {
-        "id": "CWPyT2h9kYHObby5azA4M",
+        "id": "b4Xr-f36l8dV28nH2SPeK",
         "avatar": "gpt-bot",
-        "name": "4omini-general_cs",
+        "name": "general_cs-4om",
         "context": [
             {
                 "id": "_2JysYr_msEXL7uTwR8-N",
@@ -32,9 +32,9 @@
         "hideContext": true
     },
     {
-        "id": "t5_-bnOBxa-A4zD_4KHn4",
+        "id": "6w9mUGl-L95Rs3SoQHxGq",
         "avatar": "gpt-bot",
-        "name": "general_cs_teaching",
+        "name": "general_cs-claude3.5",
         "context": [
             {
                 "id": "ci97-qBXV7ABhgbso3asA",
@@ -64,9 +64,9 @@
         "hideContext": true
     },
     {
-        "id": "DiNKzVg7xSxOO4T1JpXUC",
+        "id": "hw9Wh8WPiiXRLFHVWMpxN",
         "avatar": "gpt-bot",
-        "name": "4omini-shell_scripts_writer",
+        "name": "shell_scripts_writer-4om",
         "context": [
             {
                 "id": "lCRHjFbeeipWU3YwcKnTb",
